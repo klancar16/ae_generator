@@ -1,6 +1,6 @@
 # Data Generators Based on Autoencoders and Variational Autoencoders
 
-The project was developed as part of the Master's thesis: "Autoencoder based generators of semi-artificial data" at the University of Ljubljana. In case of any questions related to the project, feel free to contact me.
+The project was developed as part of the Master's thesis: "[Autoencoder based generators of semi-artificial data](http://eprints.fri.uni-lj.si/4141/)" at the University of Ljubljana. In case of any questions related to the project, feel free to contact me.
 
 The solution consists of four modules:
 - [preprocessing](preprocessing.py),
